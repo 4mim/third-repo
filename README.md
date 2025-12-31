@@ -2,7 +2,7 @@
 
 Hello, I am from remot. And now, you are my words.
 
-## How to Start
+## what use program
 
 `$ pyrhon fizzbuzz.py`
 
